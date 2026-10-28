@@ -1,1 +1,1 @@
-Results obtained by TLTS.
+Solutions obtained by TLTS.
