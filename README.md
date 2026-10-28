@@ -2,7 +2,7 @@
 
 The software and data in this repository are a snapshot of the software and data used in the research reported in the paper *An efficient two level tabu search algorithm for the quadratic knapsack problem with setup* by Huan-Huan Tan, Qing Zhou, Jin-Kao Hao and Zhang-Hua Fu.
 
-The benchmark instances (140 instances for each r = \{2,5,10\}, yielding 420 instances in total） used by the proposed two level tabu search algorithm (TLTS) were friendly provided in the Galli et al. [refer to [3]]. To facilitate the further research, we upload the instances here.
+The benchmark instances (140 instances for each r = \{2,5,10\}, yielding 420 instances in total） used by the proposed two level tabu search algorithm (TLTS) were friendly provided in the Galli et al. (refer to Galli, L., Martello, S., Rey, C., & Toth, P. (2025). The quadratic knapsack problem with setup. Computers & Operations Research, 173, 106873.). To facilitate the further research, we upload the instances here.
 
 ## How to run the programs.
 
